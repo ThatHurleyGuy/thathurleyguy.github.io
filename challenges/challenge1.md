@@ -6,4 +6,4 @@ The image appears to just be random noise, but you're confident there's a hidden
 
 Here is an example project that you can import into intellij or eclipse that will have some code to help you get started.
 
-[intellij Project](SecretChallenge1.zip)
+[Intellij Project](SecretChallenge1.zip)
