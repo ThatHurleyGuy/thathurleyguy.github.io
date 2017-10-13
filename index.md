@@ -2,4 +2,5 @@
 layout: default
 ---
 
-Some stuff!
+Coding Challenges:
+* [Challenge 1](challenges/challenge1.md)
