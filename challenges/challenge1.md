@@ -10,4 +10,6 @@ Here is an example project that you can import into intellij or eclipse that wil
 
 To import the project into BlueJ click Project -> Open ZIP/JAR and select the zip file you downloaded. It should open the project, the Main.java file is the only file you need to check.
 
+To import the project into eclipse File -> Open projects from file system. Click "Archive" to the right of the "Import source" field and select the archive file you downloaded.
+
 Hint: Look at the filename of the scrambled image. Also, your output image should be a single color background with text written in the center.
