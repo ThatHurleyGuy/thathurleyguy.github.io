@@ -8,4 +8,6 @@ Here is an example project that you can import into intellij or eclipse that wil
 
 [Example Project](SecretChallenge1.zip)
 
+To import the project into BlueJ click Project -> Open ZIP/JAR and select the zip file you downloaded. It should open the project, the Main.java file is the only file you need to check.
+
 Hint: Look at the filename of the scrambled image. Also, your output image should be a single color background with text written in the center.
