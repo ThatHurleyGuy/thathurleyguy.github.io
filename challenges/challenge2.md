@@ -23,3 +23,12 @@ This operator can be used to make backups smaller. For example, let's look at ba
 
 # Part 2
 
+It turns out the answer to part one is the input to a recursive function that outputs nuclear launch codes.
+
+```
+g(0) = 0
+g(1) = 1
+g(x) = g(x-1) + g(x-2) + x
+```
+
+What is the result of `g(answer_from_part1)`?
