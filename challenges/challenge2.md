@@ -5,6 +5,7 @@ Mr Hurley has heard that his previous message encoding was broken. This time he'
 You've discovered 2 images that Mr Hurley sent to North Korean intelligence this time. They both look like gibberish, but you've got a feeling they're related.
 
 ![Scrambled message 1](scrambled2.png "Scrambled message 1")
+  
 ![Scrambled message 2](scrambled1.png "Scrambled message 2")
 
 # Part 2
