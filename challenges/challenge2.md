@@ -32,3 +32,5 @@ g(x) = g(x-1) + g(x-2) + x
 ```
 
 What is the result of `g(answer_from_part1)`?
+
+** HINT - This is deceptively hard, the naive solution would take days (if not weeks) to calculate the value. You may need to optimize your code to be as efficient as possible.
